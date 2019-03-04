@@ -4,6 +4,6 @@ jdk:
 notifications:
   email:
     recipients:
-      - ldeng@towson.edu
+      - jcsmnd@gmail.com
     on_success: always # default: change
     on_failure: always # default: always
