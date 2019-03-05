@@ -16,8 +16,4 @@ public class SimpleCalculator {
 	public int divide(int a, int b){
 		return a / b;
 	}
-
-	public int dbz(int a){
-		return a / 0;
-	}
 }
