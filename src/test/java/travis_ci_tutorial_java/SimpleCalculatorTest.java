@@ -21,12 +21,12 @@ public class SimpleCalculatorTest {
 	@Test
 	public void testMultiply() {
 		SimpleCalculator calc = new SimpleCalculator();
-		assertEquals(calc.minus(5, 3), 15);
+		assertEquals(calc.multiply(5, 3), 15);
 	}
 
 	@Test
 	public void testDivide() {
 		SimpleCalculator calc = new SimpleCalculator();
-		assertEquals(calc.minus(6, 3), 2);
+		assertEquals(calc.divide(6, 3), 2);
 	}
 }
